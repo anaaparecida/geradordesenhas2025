@@ -33,3 +33,6 @@ for (i = 0; i < checkbox.length; i++) {
 
 const letraMaiuscula = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 const letraMinuscula = 'abcdefghijklmnopqrstuvwxyz';
+const numeros = '0123456789';
+const simbolos = '!@%*?#';
+
